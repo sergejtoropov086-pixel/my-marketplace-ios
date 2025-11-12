@@ -1,0 +1,8 @@
+# Добавь eas.json в Git
+git add eas.json
+
+# Сделай коммит
+git commit -m "feat: add eas.json for Expo build"
+
+# Запушь на GitHub
+git push origin main
