@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "TechLand Marketplace",
+    "slug": "marketplacesergej",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./IMG_2044.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./IMG_2048.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0c14"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sergejtoropov.marketplacesergej"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./IMG_2044.png",
+        "backgroundColor": "#0f0c14"
+      },
+      "package": "com.sergejtoropov.marketplacesergej"
+    },
+    "web": {
+      "favicon": "./IMG_2044.png"
+    }
+  }
+}
