@@ -1,3 +1,0 @@
-git add app.json
-git commit -m "feat: add app.json with Expo config"
-git push
